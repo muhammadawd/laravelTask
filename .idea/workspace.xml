@@ -51,7 +51,7 @@
           <entry key="dummy" value="15" />
           <entry key="env" value="1" />
           <entry key="json" value="6" />
-          <entry key="md" value="123" />
+          <entry key="md" value="124" />
           <entry key="php" value="6346" />
         </counts>
       </usages-collector>
@@ -60,7 +60,7 @@
           <entry key=".env file" value="1" />
           <entry key="Blade" value="2331" />
           <entry key="JSON" value="6" />
-          <entry key="Markdown" value="123" />
+          <entry key="Markdown" value="124" />
           <entry key="PHP" value="4015" />
           <entry key="PLAIN_TEXT" value="15" />
         </counts>
@@ -146,8 +146,8 @@
         <entry file="file://$PROJECT_DIR$/README.md">
           <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
             <state split_layout="SPLIT">
-              <first_editor relative-caret-position="153">
-                <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+              <first_editor relative-caret-position="268">
+                <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
               </first_editor>
               <second_editor />
             </state>
@@ -497,12 +497,12 @@
       <workItem from="1586164754110" duration="455000" />
       <workItem from="1586165833425" duration="8445000" />
       <workItem from="1586413381736" duration="626000" />
-      <workItem from="1586436810624" duration="26687000" />
+      <workItem from="1586436810624" duration="26719000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="36213000" />
+    <option name="totallyTimeSpent" value="36245000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1382" height="754" extended-state="6" />
@@ -890,8 +890,8 @@
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
-          <first_editor relative-caret-position="153">
-            <caret line="17" column="13" selection-start-line="17" selection-start-column="13" selection-end-line="17" selection-end-column="13" />
+          <first_editor relative-caret-position="268">
+            <caret line="23" column="1" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
           </first_editor>
           <second_editor />
         </state>
