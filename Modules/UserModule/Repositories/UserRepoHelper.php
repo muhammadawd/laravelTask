@@ -18,7 +18,7 @@ trait UserRepoHelper
 
         $message = "use $code to verify your account";
 
-        $this->sendSmsActivationCode($number, $message);
+        $this->sendSmsOverService($number, $message);
 
         return true;
     }
